@@ -84,13 +84,13 @@
   
   main {
     padding-inline: 3.2rem;
-    max-width: 70rem;
+    max-width: 80rem;
     margin: 3.2rem auto;
   }
   
   ul {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 2.9rem;
   
     list-style: none;
